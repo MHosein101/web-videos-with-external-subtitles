@@ -23,4 +23,7 @@ and then use `showSubtitles` function<br>
 3. `subtitles` variable that contains subtitle objects from parsed file (default name is `JsonSrtSubtitle`)
 4. `offset` number that change subtitle display time to sync subtitle with video
 
+## License
+ MIT &copy; 2020 , Hosein Marzban
+
 Hope it be useful for you
